@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Greymass",
+        "endpoint": "https://eos.greymass.com"
+    },
+    {
+        "name": "TokenPocket",
+        "endpoint": "https://eospush.tokenpocket.pro"
+    },
+    {
+        "name": "EOS Nation",
+        "endpoint": "https://eos.eosn.io"
+    },
+    {
+        "name": "EOS sw/eden",
+        "endpoint": "https://api.eossweden.org"
+    },
+    {
+        "name": "Newdex",
+        "endpoint": "https://eos.newdex.one"
+    },
+    {
+        "name": "eosflare.io",
+        "endpoint": "https://api.eosflare.io"
+    },
+    {
+        "name": "EOS Argentina",
+        "endpoint": "https://api.eosargentina.io"
+    },
+    {
+        "name": "EOS Asia",
+        "endpoint": "http://api1.eosasia.one"
+    },
+    {
+        "name": "EOS Laomao",
+        "endpoint": "https://api.eoslaomao.com"
+    },
+    {
+        "name": "Eosfinex",
+        "endpoint": "https://api.eosfinex.com"
+    },
+    {
+        "name": "Alohaeos",
+        "endpoint": "https://api.main.alohaeos.com"
+    },
+    {
+        "name": "EOS Rio",
+        "endpoint": "https://hapi.eosrio.io"
+    },
+    {
+        "name": "EOSeoul",
+        "endpoint": "https://api.eoseoul.io"
+    },
+    {
+        "name": "Starteos",
+        "endpoint": "https://api-mainnet.starteos.io"
+    }
+]

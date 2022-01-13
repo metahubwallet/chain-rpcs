@@ -1,0 +1,30 @@
+[
+    {
+        "name": "WAX",
+        "endpoint": "https://chain.wax.io"
+    },
+    {
+        "name": "SW/eden",
+        "endpoint": "https://api.waxsweden.org"
+    },
+    {
+        "name": "EOS Nation",
+        "endpoint": "https://wax.eosn.io"
+    },
+    {
+        "name": "eosDAC",
+        "endpoint": "https://wax.eosdac.io"
+    },
+    {
+        "name": "EOS Rio",
+        "endpoint": "https://wax.eosrio.io"
+    },
+    {
+        "name": "pink.gg",
+        "endpoint": "https://wax.pink.gg"
+    },
+    {
+        "name": "Greymass",
+        "endpoint": "https://wax.greymass.com"
+    }
+]

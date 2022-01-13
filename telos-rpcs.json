@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Greymass",
+        "endpoint": "http://telos.greymass.com"
+    },
+    {
+        "name": "CALEOS",
+        "endpoint": "https://telos.caleos.io"
+    },
+    {
+        "name": "EOS Nation",
+        "endpoint": "https://telos.eosn.io"
+    },
+    {
+        "name": "infinitybloc",
+        "endpoint": "https://telos-mainnet.infinitybloc.io"
+    },
+    {
+        "name": "TelosGlobal",
+        "endpoint": "https://node1.us-west.telosglobal.io"
+    },
+    {
+        "name": "GoodBlock",
+        "endpoint": "https://tlos.goodblock.io"
+    },
+    {
+        "name": "Telos Kitchen",
+        "endpoint": "https://api.telos.kitchen"
+    },
+    {
+        "name": "Telos UK",
+        "endpoint": "https://api.telosuk.io"
+    },
+    {
+        "name": "South Africa ",
+        "endpoint": "https://api.telos.africa"
+    },
+    {
+        "name": "TelosGreen",
+        "endpoint": "https://api.telos.telosgreen.com"
+    },
+    {
+        "name": "EOS Rio",
+        "endpoint": "https://telos.eosrio.io"
+    }
+]
